@@ -1,0 +1,5 @@
+Validation loss 1.3304
+Validation loss 1.2731
+Validation loss 1.2752
+Validation loss 1.2006
+Validation loss 1.0722
